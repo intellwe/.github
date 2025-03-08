@@ -16,10 +16,11 @@ Our goal at IntellWe is to pioneer AI solutions that blend effortlessly into eve
 
 ## 🛠️ Projects
 
-| Project Name        | Description                                                      | Technologies                           | Link                                 |
-|---------------------|------------------------------------------------------------------|----------------------------------------|--------------------------------------|
-| 🤖 **Enterprise AI Assistant**| Intelligent virtual assistants for scheduling, reminders, and personalized interactions. | AI, NLP, Automation                    | Coming Soon                          |
-| 🎙️ **Wedio - Free ElevenLabs Alternative, AI Voice Generator & Transcription**   | Advanced multi-speaker transcription, text-to-speech, and voice transformation web app. | React, TypeScript, Tailwind CSS, NLP | [Try here!](https://wedio.intellwe.com/) |
+| Project Name                   | Description                                                                          | Technologies                                 | Link                                 |
+|--------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------|--------------------------------------|
+| 🤖 **Enterprise AI Assistant**  | Intelligent virtual assistants for scheduling, reminders, and personalized interactions. | AI, NLP, Automation                          | Coming Soon                          |
+| 🎙️ **Wedio**                   | Advanced text-to-speech, voice transformation, and voice editing web app.            | React, TypeScript, Tailwind CSS, NLP         | [Try here!](https://wedio.intellwe.com/) |
+| ✨ **wErase**                    | AI-powered background removal and editing web app—remove backgrounds instantly in your browser. | React, TypeScript, Tailwind CSS, Transformers.js | [Try here!](https://werase.intellwe.com/) |
 
 ---
 
