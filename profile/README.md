@@ -2,8 +2,6 @@
 
 IntellWe is your innovative hub for AI-driven solutions designed to simplify, automate, and enhance everyday tasks. We leverage state-of-the-art artificial intelligence to craft intuitive products that seamlessly integrate into daily life.
 
-## About Us
-
 IntellWe specializes in cutting-edge artificial intelligence, covering a wide range of domains:
 
 - **Automation**: Streamlining repetitive tasks to boost productivity.
