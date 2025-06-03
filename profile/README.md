@@ -19,7 +19,7 @@ Our goal at IntellWe is to pioneer AI solutions that blend effortlessly into eve
 | Project Name                   | Description                                                                          | Technologies                                 | Link                                 |
 |--------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------|--------------------------------------|
 | **Enterprise AI Assistant**  | Intelligent virtual assistants for scheduling, reminders, and personalized interactions. | AI, NLP, Automation                          | Coming Soon                          |
-| **Wedio**                   | Advanced text-to-speech, voice transformation, and voice editing web app.            | React, TypeScript, Tailwind CSS, NLP         | [Try here!](https://wedio.intellwe.com/) |
+| **Wedio**                   | A professional AI-powered media processing suite for enterprises and content creators. Transform documents into videos, clone voices, transcribe meetings, and generate professional audio content with cutting-edge AI technology.            | React, TypeScript, Tailwind CSS, NLP         | [Try here!](https://wedio.intellwe.com/) |
 | **wErase**                    | AI-powered background removal and editing web app—remove backgrounds instantly in your browser. | React, TypeScript, Tailwind CSS, Transformers.js | [Try here!](https://werase.intellwe.com/) |
 
 ---
