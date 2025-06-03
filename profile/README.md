@@ -16,11 +16,12 @@ Our goal at IntellWe is to pioneer AI solutions that blend effortlessly into eve
 
 ## Projects
 
-| Project Name                   | Description                                                                          | Technologies                                 | Link                                 |
-|--------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------|--------------------------------------|
-| **Enterprise AI Assistant**  | Intelligent virtual assistants for scheduling, reminders, and personalized interactions. | AI, NLP, Automation                          | Coming Soon                          |
-| **Wedio**                   | A professional AI-powered media processing suite for enterprises and content creators. Transform documents into videos, clone voices, transcribe meetings, and generate professional audio content with cutting-edge AI technology.            | React, TypeScript, Tailwind CSS, NLP         | [Try here!](https://wedio.intellwe.com/) |
-| **wErase**                    | AI-powered background removal and editing web app—remove backgrounds instantly in your browser. | React, TypeScript, Tailwind CSS, Transformers.js | [Try here!](https://werase.intellwe.com/) |
+| Project Name                   | Description                                                                          | Technologies                                                      | Link                                       |
+|--------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------|
+| **Enterprise AI Assistant**    | Intelligent virtual assistants for scheduling, reminders, and personalized interactions. | AI, NLP, Automation                                               | Coming Soon                                |
+| **Wedio**                      | A professional AI-powered media processing suite for enterprises and content creators. Transform documents into videos, clone voices, transcribe meetings, and generate professional audio content with cutting-edge AI technology. | React, TypeScript, Tailwind CSS, NLP                              | [Try here!](https://wedio.intellwe.com/)   |
+| **wErase**                     | AI-powered background removal and editing web app—remove backgrounds instantly in your browser. | React, TypeScript, Tailwind CSS, Transformers.js                  | [Try here!](https://werase.intellwe.com/)  |
+| **Safe-Web**                   | A user-first, lightweight, and powerful browser extension designed to enhance privacy, usability, and productivity on the web. | React, Vite, TailwindCSS, Framer Motion, Chrome Extension Manifest v3 | [Try here!](https://safeweb.intellwe.com) |
 
 ---
 
